@@ -1,2 +1,1 @@
-# QrCode
-Qrcode
+# Leitor_de_QRCode---React-Native
